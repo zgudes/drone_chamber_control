@@ -1,0 +1,2 @@
+to control the keysight PNA download the following software, connect the usb and check in the bottom of the software screen for green V
+https://www.keysight.com/us/en/lib/software-detail/computer-software/io-libraries-suite-downloads-2175637.html
